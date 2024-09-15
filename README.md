@@ -10,7 +10,7 @@ Es ist ein Chatclient mit Authentifizierung, Threads, Privatchannels, Usermanage
 
 1. Klone das Repository:
    ```bash
-   git clone https://github.com/techcoder95/dabubble.git
+   git clone https://github.com/rabiauerkmez/dabubble.git
    ```
 
 2. Wechsle in das Projektverzeichnis:
@@ -53,4 +53,4 @@ Es ist ein Chatclient mit Authentifizierung, Threads, Privatchannels, Usermanage
 Dieses Projekt ist unter der MIT-Lizenz lizenziert. Siehe die LICENSE Datei für weitere Details.
 
 ## Kontakt
-Für Fragen oder Anregungen, bitte eine E-Mail an dominik.knezovic@knezovic-it.com senden.
+Für Fragen oder Anregungen, bitte eine E-Mail an mail@rabia-uerkmez.de senden.
